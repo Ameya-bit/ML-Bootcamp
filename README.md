@@ -24,3 +24,11 @@ This is a neural network created from scratch.
 The dataset used was supplied from kaggle: 
 https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images
 
+## Fine Tuning Models:
+
+### resnet_finetuning
+
+This is a project that finetunes the existing Resnet model to specifically identify cats and dogs
+
+The dataset was supplied from kaggle: 
+https://www.kaggle.com/datasets/d4rklucif3r/cat-and-dogs
